@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var googleapis = require('googleapis'),
+var googleapis = require('googleapis-current'),
     readline = require('readline'),
     fs = require('fs'),
     program = require('commander'),
