@@ -4,9 +4,9 @@
   "description": "Sync local files to Google Drive using Node.JS. Fast and portable.",
   "main": "./bin/gdrive-sync",
   "dependencies": {
-    "async": "^0.9.0",
+    "async": "~1.4.0",
     "commander": "^2.8.1",
-    "googleapis": "^2.0.2",
+    "googleapis": "^2.1.1",
     "multimeter": "^0.1.1"
   },
   "devDependencies": {},
