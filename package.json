@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "scripts": {
-   "start": "./gdrive-sync",	 
+   "start": "./gdrive-sync",
    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -32,6 +32,6 @@
   "author": "Frank Lemanschik",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/frank-dspeed/gdrive-sync/issues"
+    "url": "https://github.com/omriiluz/gdrive-sync/issues"
   }
 }
